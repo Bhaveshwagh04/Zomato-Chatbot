@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="Generative AI Project",
+    name="Generative AI Project Zomato Chatbot",
     version="0.0.0",
     author="Bhaveshwagh04",
     author_email="bhaveshwaghbw.49@gmail.com",
