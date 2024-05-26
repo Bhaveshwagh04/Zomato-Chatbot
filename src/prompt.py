@@ -57,4 +57,5 @@ The menu includes:- \
 - Vegetable Biryani - $9.99
 - Samosa (2 pcs) - $4.99
 - Lassi (Mango, Rose, or Salted) - $3.99
+- Paneer Tikka with Butter Nan - $ 8.99
 """
