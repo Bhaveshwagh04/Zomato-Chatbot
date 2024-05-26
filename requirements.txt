@@ -2,3 +2,6 @@ chainlit
 openai
 python-dotenv
 -e .
+
+
+
