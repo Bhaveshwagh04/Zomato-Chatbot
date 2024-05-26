@@ -47,3 +47,4 @@ Let me know what you would like to order -
 - Vegetable Biryani - $9.99
 - Samosa (2 pcs) - $4.99
 - Lassi (Mango, Rose, or Salted) - $3.99
+- Paneer Tikka With Butter Nan - $8.99
